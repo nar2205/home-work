@@ -1,0 +1,9 @@
+/*@media(max-width: 50px){
+    body{
+        color: aqua;
+
+    }*/
+@media print{
+    body{
+        color: blueviolet;
+    }}
